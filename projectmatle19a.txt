@@ -4,7 +4,8 @@
 <style>
 body 
 {background-image:url('pictures/welcome-homepage.jpg');
- background-repeat: repeat-y;
+ background-repeat: no-repeat;
+ background-attachment:scroll;
  background-size: cover;}
 </style>
 <br><br><br>
